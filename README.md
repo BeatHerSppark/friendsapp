@@ -1,24 +1,5 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hey my name is BeatHersppark and I don't work at codemy.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is my first RoR project and so far RoR works like absolute magic, way too simple to be true but hey, I'll just roll with it..
